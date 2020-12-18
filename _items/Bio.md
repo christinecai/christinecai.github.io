@@ -12,4 +12,4 @@ Before the start of my Ph.D. program, I worked as a full-time <font color="India
 	
 My <font color="IndianRed">CV</font> can be viewed/downloaded <button type="button" class="btn btn-xs btn-default"><a href="/assets/pdf/Christine_Cai_CV.pdf">here</a></button>.
 	
-Feel free to reach out to me at <font color="IndianRed">christine.cai@princeton.edu</font>, or if you happen to visit Princeton, you can drop by office 264 in the Industrial Relations Section (especially if you want to hit a few ping pong balls!). These days though, I am mostly wandering around Zoomland...!
+Feel free to reach out to me at <a href="mailto:christine.cai@princeton.edu">christine.cai@princeton.edu</a>, or if you happen to visit Princeton, you can drop by office 264 in the Industrial Relations Section (especially if you want to hit a few ping pong balls!). These days though, I am mostly wandering around Zoomland...!
