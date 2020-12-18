@@ -17,7 +17,7 @@ description: Homepage
 * <u>Primary:</u> applied microeconomics, labor, urban
 * <u>Secondary:</u> public, health, education
 			
-<u>Main topics of interest:</u> segregation, migrations, social mobility, educational inequalities
+<u>Main topics of interest:</u> segregation, migrations, social mobility, educational/racial inequalities
 	
 <u>CV:</u> <a href="/assets/pdf/Christine_Cai_CV.pdf">click here</a>
 
