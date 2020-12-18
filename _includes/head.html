@@ -1,0 +1,54 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <!-- Social: Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@{{site.twitter_username}}">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.image %}
+  <meta property="twitter:image:src" content="{{ site.url }}{{page.image }}">
+  {% else %}
+  <meta property="twitter:image:src" content="{{ '/assets/img/opengraph.png' | prepend: site.baseurl | prepend: site.url }}">
+  {% endif %}
+
+  <!-- Social: Facebook / Open Graph -->
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  {% if page.image %}
+  <meta property="og:image" content="{{ site.url }}{{page.image }}">
+  {% else %}
+  <meta property="og:image" content="{{ '/assets/img/opengraph.png' | prepend: site.baseurl | prepend: site.url }}">
+  {% endif %}
+  <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+
+  <!-- Social: Schema.org  -->
+  <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
+  <meta itemprop="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta itemprop="image" content="{{ '/assets/img/opengraph.png' | prepend: site.baseurl | prepend: site.url }}"/>
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="{{'/assets/img/icons/favicon.ico' | prepend: site.baseurl }}" type="image/x-icon" />
+
+  <!-- Android Lolipop Theme Color -->
+  <meta name="theme-color" content="#2a4d14">
+
+  <!-- Styles -->
+  <link rel="stylesheet" id="css-theme" href="{{ '/assets/css/main-' | append: site.theme_base | append: '.css' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/assets/css/highlight/' | append: site.highlighter_theme | append: '.css' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+
+  <!-- Javascript -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.3.0/d3.min.js"></script>
+  <script type="text/javascript" src="{{ '/assets/js/main.js' | prepend: site.baseurl }}"></script>
+</head>

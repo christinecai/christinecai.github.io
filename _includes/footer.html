@@ -1,0 +1,26 @@
+<footer class="page-footer">
+  <center>
+    {% if site.theme_switch == true %}
+    <div class="row">
+      <div class="col-sm-8 col-sm-offset-2">
+        <a onclick="toggleTheme();">
+          Light/Dark
+        </a>
+      </div>
+    </div>
+    {% endif %}
+    <div class="row">
+      <div class="col-sm-8 col-sm-offset-2">
+        {% include links.html %}
+      </div>
+    </div>
+    {% if site.email != null and site.author != null %}
+    <div class="row">
+      <div class="col-sm-8 col-sm-offset-2">
+        Copyright (c) 20{{ site.time | date: '%y' }} {{site.author}} -
+        <a href="mailto:{{site.email}}">&lt;{{site.email}}&gt;</a>
+      </div>
+    </div>
+    {% endif %}
+  </center>
+</footer>
