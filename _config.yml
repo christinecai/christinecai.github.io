@@ -17,7 +17,7 @@ title: website
 author: "Christine Cai"
 email: "christine.cai@princeton.edu"
 description: personal website
-baseurl: "/website" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christinecai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # ------------------------------------------------------------------------------
