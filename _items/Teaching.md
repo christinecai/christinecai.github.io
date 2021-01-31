@@ -15,7 +15,7 @@ description: Teaching
 #### ECO 981 Junior Independent Work
 * <u>Role:</u> Teaching Assistant for <a href="https://irs.princeton.edu/people/orley-c-ashenfelter">Professor Orley Ashenfelter</a>
 * <u>Semester(s):</u> Fall 2020, Spring 2021
-* <u>Office hours (weekly):</u> 
+* <u>Office hours:</u> 
   - Wednesday, 1:00-2:00 PM EST <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>
   - Schedule an appointment <button type="button" class="btn btn-xs btn-default"><a href="mailto:christine.cai@princeton.edu">by email</a></button>
 * <u>Material(s):</u>
