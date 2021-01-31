@@ -7,7 +7,7 @@ description: Teaching
 #### ECO 313 Econometric Applications
 * <u>Role:</u> Teaching Assistant for <a href="https://irs.princeton.edu/people/henry-farber">Professor Henry Farber</a>
 * <u>Semester(s):</u> Spring 2021 <button type="button" class="btn btn-xs btn-default"><a href="https://registrar.princeton.edu/course-offerings/course-details?term=1214&courseid=001395">course description</a></button>
-* <u>Office hours (weekly):</u> Friday, 3:30-4:30 PM EST <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>, or schedule an appointment by email
+* <u>Office hours (weekly):</u> Friday, 3:30-4:30 PM EST <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>, or schedule an appointment <button type="button" class="btn btn-xs btn-default"><a href="mailto:christine.cai@princeton.edu">by email</a></button>
 * <u>Material(s):</u> <button type="button" class="btn btn-xs btn-default"><a href="https://blackboard.princeton.edu">see Blackboard</a></button>
 
 #### ECO 981 Junior Independent Work
