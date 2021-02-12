@@ -8,7 +8,7 @@ description: Teaching
 * <u>Role:</u> Teaching Assistant for <a href="https://irs.princeton.edu/people/henry-farber">Professor Henry Farber</a>
 * <u>Semester(s):</u> Spring 2021 <button type="button" class="btn btn-xs btn-default"><a href="https://registrar.princeton.edu/course-offerings/course-details?term=1214&courseid=001395">course description</a></button>
 * <u>Office hours:</u>
-  - Friday, 9:30-10:30 AM EST <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>
+  - Friday, 9:30-11:00 AM EST <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>
   - Friday, 3:30-4:30 PM EST <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>
   - Schedule an appointment <button type="button" class="btn btn-xs btn-default"><a href="mailto:christine.cai@princeton.edu">by email</a></button>
 * <u>Material(s):</u> <button type="button" class="btn btn-xs btn-default"><a href="https://blackboard.princeton.edu">see Blackboard</a></button>
