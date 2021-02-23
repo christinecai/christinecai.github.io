@@ -11,7 +11,7 @@ description: Teaching
   - Friday, 9:30-11:00 AM EST <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>
   - Friday, 3:30-4:30 PM EST <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>
   - Schedule an appointment <button type="button" class="btn btn-xs btn-default"><a href="mailto:christine.cai@princeton.edu">by email</a></button>
-* <u>Material(s):</u> <button type="button" class="btn btn-xs btn-default"><a href="https://blackboard.princeton.edu">see Blackboard</a></button>
+* <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://blackboard.princeton.edu">see Blackboard</a></button>
 
 #### ECO 981 Junior Independent Work
 * <u>Role:</u> Teaching Assistant for <a href="https://irs.princeton.edu/people/orley-c-ashenfelter">Professor Orley Ashenfelter</a>
@@ -19,9 +19,6 @@ description: Teaching
 * <u>Office hours:</u> 
   - Wednesday, 1:00-2:00 PM EST <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>
   - Schedule an appointment <button type="button" class="btn btn-xs btn-default"><a href="mailto:christine.cai@princeton.edu">by email</a></button>
-* <u>Material(s):</u>
-  - Tips on finding relevant literature and data <button type="button" class="btn btn-xs btn-default"><a href="/Teaching/ECO981_tips_literature.pdf">PDF</a></button>
-  - Detailed guidelines for the prospectus <button type="button" class="btn btn-xs btn-default"><a href="/Teaching/ECO981_guidelines_prospectus.pdf">PDF</a></button>
-  - Presentation guidelines for the second JIW meeting <button type="button" class="btn btn-xs btn-default"><a href="/Teaching/ECO981_presentation_guidelines_2nd_meeting.pdf">PDF</a></button>
+* <u>Material(s):</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/groups/1110/pages">see Canvas</a></button>
   
   
