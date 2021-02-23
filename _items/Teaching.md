@@ -19,6 +19,6 @@ description: Teaching
 * <u>Office hours:</u> 
   - Wednesday, 1:00-2:00 PM EST <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>
   - Schedule an appointment <button type="button" class="btn btn-xs btn-default"><a href="mailto:christine.cai@princeton.edu">by email</a></button>
-* <u>Material(s):</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/groups/1110/pages">see Canvas</a></button>
+* <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/groups/1110/pages">see Canvas</a></button>
   
   
