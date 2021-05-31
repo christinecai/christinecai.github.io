@@ -6,11 +6,11 @@ description: Research
 
 ### Work in progress
 
-* Tightening Immigration Policy: Unintended Consequences on Hispanic U.S. Citizens' Health Behavior and Status
-<button type="button" class="btn btn-xs btn-default"><a href="/research/Cai_Christine_third_year_paper.pdf">preliminary draft</a></button>
-
 * White Flight from Asian Immigration: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default"><a href="/research/BCT_white_flight_draft.pdf">preliminary draft</a></button> 
 <button type="button" class="btn btn-xs btn-default"><a href="/research/200210325_Princeton_Grad_Labor_Workshop_uncover.pdf">slides</a></button>
+
+* Tightening Immigration Policy: Unintended Consequences on Hispanic U.S. Citizens' Health Behavior and Status
+<button type="button" class="btn btn-xs btn-default"><a href="/research/Cai_Christine_third_year_paper.pdf">preliminary draft</a></button>
 
 * School Racial Diversity and Individuals' Racial Attitudes 
 <button type="button" class="btn btn-xs btn-default">applying for data</button>
