@@ -10,7 +10,7 @@ description: Public Goods
 * <a href="https://taylorjwright.github.io/did-reading-group/">DiD Reading Group (Summer 2021)</a> (by Taylor Wright)
 * <a href="https://github.com/asjadnaqvi/DiD">Current literature on diff-in-diff</a> (by Asjad Naqvi)
 
-#### PhD-Level Classes and Notes
+#### PhD-Level Class Materials
 * <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
 * <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
 * <a href="https://scholar.princeton.edu/zidar/classes">Graduate Public Finance lecture materials</a> (by Owen Zidar)
