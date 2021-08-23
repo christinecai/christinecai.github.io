@@ -9,6 +9,11 @@ description: Public Goods
 * <a href="https://www.chloeneast.com/metrics-discussions.html">Metrics discussions: diff-in-diff and event studies</a> (by Chloe East)
 * <a href="https://github.com/asjadnaqvi/DiD">Current literature on diff-in-diff</a> (by Asjad Naqvi)
 
+#### Ph.D.-level classes and notes
+* <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
+* <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
+* <a href="https://scholar.princeton.edu/zidar/classes">Graduate Public Finance lecture materials</a> (by Owen Zidar)
+
 #### Coding
 * <a href="https://www.peretaberner.eu/tips-for-managing-large-scale-datasets-efficiently-in-stata/">Tips for managing large-scale datasets efficiently in Stata</a> (by Peter Taberner)
 * <a href="http://repec.sowi.unibe.ch/files/wp30/Jann-2018-grstyle-set.pdf">Customizing Stata graphs</a> (by Ben Jann)
