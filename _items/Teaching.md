@@ -4,7 +4,7 @@ title: Teaching
 description: Teaching
 ---
 
-### Academic year 2021-2022
+### <p style="color:orange;">Academic year 2021-2022</p>
 
 #### ECO 981 Junior Independent Work
 * <u>Role:</u> Teaching Assistant for <a href="https://economics.princeton.edu/people/">Professor Kelly Noonan</a>
@@ -21,7 +21,7 @@ description: Teaching
 * <u>Materials:</u> TBD
 
 
-### Academic year 2020-2021
+### <p style="color:orange;">Academic year 2020-2021</p>
 
 #### ECO 981 Junior Independent Work
 * <u>Role:</u> Teaching Assistant for <a href="https://irs.princeton.edu/people/orley-c-ashenfelter">Professor Orley Ashenfelter</a>
