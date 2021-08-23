@@ -14,6 +14,7 @@ description: Public Goods
 * <a href="https://github.com/michaelstepner/healthinequality-code/tree/main/code">Coding and do-file structure</a> (by Michael Stepner)
 * <a href="https://www.stata.com/bookstore/stata-cheat-sheets/">Stata cheat sheets</a> (by Tim Essam & Laura Hughes)
 * <a href="http://repec.sowi.unibe.ch/files/wp30/Jann-2018-grstyle-set.pdf">Customizing Stata graphs</a> (by Ben Jann)
+* <a href="http://cameron.econ.ucdavis.edu/musbook/MUS2_Draft_Contents_November_2020.pdf">Microeconometrics Using Stata</a> (by Colin Cameron & Pravin Trivedi)
 * <a href="https://www.peretaberner.eu/tips-for-managing-large-scale-datasets-efficiently-in-stata/">Tips for managing large-scale datasets efficiently in Stata</a> (by Peter Taberner)
 * <a href="https://medium.com/the-stata-guide/maps-in-stata-ii-fcb574270269">Maps in Stata</a> (by Asjad Naqvi)
 * <a href="https://medium.com/the-stata-guide/advanced-mapping-with-stata-openstreetmap-osm-and-qgis-412c04d8ddd1">Advanced Mapping with Stata: OpenStreetMap (OSM) and QGIS</a> (by Asjad Naqvi)
