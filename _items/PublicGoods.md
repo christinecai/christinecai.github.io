@@ -25,6 +25,8 @@ description: Public Goods
 * <a href="https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html">Regression analysis in R</a> (by Grant R. McDermott)
 * <a href="https://www.peretaberner.eu/list-of-open-source-books-about-r/">List of open source books about R</a> (by Pere A. Taberner)
 * <a href="https://www.bigbookofr.com/index.html">Big Book of R</a> (by Oscar Baruffa)
+##### LaTeX
+* <a href="https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf">LaTeX Table Hints and Tips</a> (by Adrian P. Robson)
 ##### Two or more languages
 * <a href="http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html">Stata-to-Python equivalents</a> (by Daniel M. Sullivan)
 * <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
