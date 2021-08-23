@@ -20,6 +20,7 @@ description: Teaching
 * <u>Office hours:</u> TBD
 * <u>Materials:</u> TBD
 
+<hr />
 
 ### Academic year 2020-2021
 
