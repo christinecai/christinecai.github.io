@@ -36,7 +36,7 @@ description: Public Goods
 * <a href="https://lost-stats.github.io">Statistical models across R/Python/Stata</a> (by the Library of Statistical Techniques)
 * <a href="https://medium.com/the-stata-guide/stata-and-github-integration-8c87ddf9784a">Stata and GitHub Integration</a> (by Asjad Naqvi)
 
-#### Ph.D.-Level Classes and Notes
+#### PhD-Level Classes and Notes
 * <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
 * <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
 * <a href="https://scholar.princeton.edu/zidar/classes">Graduate Public Finance lecture materials</a> (by Owen Zidar)
