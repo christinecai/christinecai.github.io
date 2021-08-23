@@ -4,6 +4,8 @@ title: Teaching
 description: Teaching
 ---
 
+<hr />
+
 ### Academic year 2021-2022
 
 #### &nbsp; ECO 981 Junior Independent Work
@@ -40,3 +42,5 @@ description: Teaching
   - Friday, 3:30-4:30 PM EDT <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>
   - Schedule an appointment <button type="button" class="btn btn-xs btn-default"><a href="mailto:christine.cai@princeton.edu">by email</a></button>
 * <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://blackboard.princeton.edu">see Blackboard</a></button>
+
+<hr />
