@@ -4,7 +4,7 @@ title: Bio
 description: Bio
 ---
 
-I am Christine Cai(-square distributed), a third-year <font color="IndianRed">Ph.D. Student in Economics</font> at <font color="IndianRed">Princeton University</font>.
+I am Christine Cai(-square distributed), a fourth-year <font color="IndianRed">Ph.D. Student in Economics</font> at <font color="IndianRed">Princeton University</font>.
 	
 My research interests lie in <font color="IndianRed">applied microeconomics</font> and span <font color="IndianRed">labor, public, urban, education, and health economics</font>. I am particularly interested in issues related to segregation, migrations, educational and racial inequalities, and social mobility.
 	
