@@ -48,6 +48,7 @@ description: Public Goods
 * <a href="https://www.dropbox.com/s/eej9n1ywknlzcu6/Applied%20Tips%20for%20Applied%20Micro%20RAs.pdf?dl=0">Applied Tips for Applied Micro RAs</a> (by Livia Alfonsi)
 
 #### Grad School and the Job Market
+* <a href="https://ekatsevi.github.io/literature/">Keeping track of the literature</a> (by Eugene Katsevich)
 * <a href="http://www.ericzwick.com/public_goods/twelve_steps.pdf">The 12 Step Program for Grad School</a> (by Eric Zwick)
 * <a href="https://twitter.com/TDeryugina/status/1428353535414992914?s=20">Writing a JMP</a> (by Tatyana Deryugina)
 * <a href="http://www.ericzwick.com/public_goods/love_the_market.pdf">How I Learned to Stop Worrying and Love the Job Market</a> (by Eric Zwick)
