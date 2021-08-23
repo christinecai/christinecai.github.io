@@ -11,8 +11,7 @@ description: Public Goods
 * <a href="https://github.com/asjadnaqvi/DiD">Current literature on diff-in-diff</a> (by Asjad Naqvi)
 
 #### Coding
-*
-##### Stata
+##### <p class="tab">Stata</p>
 * <a href="https://medium.com/the-stata-guide/the-stata-workflow-guide-52418ce35006">The Stata workflow guide</a> (by Asjad Naqvi)
 * <a href="https://github.com/michaelstepner/healthinequality-code/tree/main/code">Coding and do-file structure</a> (by Michael Stepner)
 * <a href="https://www.stata.com/bookstore/stata-cheat-sheets/">Stata cheat sheets</a> (by Tim Essam & Laura Hughes)
