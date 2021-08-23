@@ -9,11 +9,6 @@ description: Public Goods
 * <a href="https://www.chloeneast.com/metrics-discussions.html">Metrics discussions: diff-in-diff and event studies</a> (by Chloe East)
 * <a href="https://github.com/asjadnaqvi/DiD">Current literature on diff-in-diff</a> (by Asjad Naqvi)
 
-#### Ph.D.-level classes and notes
-* <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
-* <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
-* <a href="https://scholar.princeton.edu/zidar/classes">Graduate Public Finance lecture materials</a> (by Owen Zidar)
-
 #### Coding
 ##### Stata
 * <a href="https://github.com/michaelstepner/healthinequality-code/tree/main/code">Coding and do-file structure</a> (by Michael Stepner)
@@ -27,6 +22,11 @@ description: Public Goods
 * <a href="http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html">Stata-to-Python equivalents</a> (by Daniel M. Sullivan)
 * <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
 * <a href="https://lost-stats.github.io">Statistical models across R/Python/Stata</a> (by the Library of Statistical Techniques)
+
+#### Ph.D.-Level Classes and Notes
+* <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
+* <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
+* <a href="https://scholar.princeton.edu/zidar/classes">Graduate Public Finance lecture materials</a> (by Owen Zidar)
 
 #### Before Grad School
 * <a href="https://raguide.github.io">Econ RA Guide</a> (by Coly Elhai et al.)
