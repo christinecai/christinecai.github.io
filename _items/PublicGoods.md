@@ -41,6 +41,7 @@ description: Public Goods
 * <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
 * <a href="https://scholar.princeton.edu/zidar/classes">Graduate Public Finance lecture materials</a> (by Owen Zidar)
 * <a href="https://github.com/paulgp/GaryChamberlainLectureNotes">Gary Chamberlain's lecture notes</a> (by Paul Goldsmith-Pinkham)
+* <a href="https://floswald.github.io/ScPo-Labor/index.html">Graduate Labor Econ course materials</a> (by Florian Oswald)
 
 #### Before Grad School
 * <a href="https://raguide.github.io">Econ RA Guide</a> (by Coly Elhai et al.)
