@@ -20,6 +20,7 @@ description: Public Goods
 * <a href="http://repec.sowi.unibe.ch/files/wp30/Jann-2018-grstyle-set.pdf">Customizing Stata graphs</a> (by Ben Jann)
 * <a href="https://www.peretaberner.eu/tips-for-managing-large-scale-datasets-efficiently-in-stata/">Tips for managing large-scale datasets efficiently in Stata</a> (by Peter Taberner)
 * <a href="https://medium.com/the-stata-guide/advanced-mapping-with-stata-openstreetmap-osm-and-qgis-412c04d8ddd1">Advanced Mapping with Stata: OpenStreetMap (OSM) and QGIS</a> (by Asjad Naqvi)
+* <a href="http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html">Stata-to-Python equivalents</a> (by Daniel M. Sullivan)
 
 #### Before Grad School
 * <a href="https://raguide.github.io">Econ RA Guide</a> (by Coly Elhai et al.)
