@@ -6,7 +6,7 @@ description: Teaching
 
 ### <p style="color:orange;">Academic year 2021-2022</p>
 
-#### ECO 981 Junior Independent Work
+#### &nbsp;&nbsp;&nbsp;&nbsp; ECO 981 Junior Independent Work
 * <u>Role:</u> Teaching Assistant for <a href="https://economics.princeton.edu/people/">Professor Kelly Noonan</a>
 * <u>Semester(s):</u> Fall 2021 & Spring 2022 <button type="button" class="btn btn-xs btn-default"><a href="https://economics.princeton.edu/undergraduate-program/independent-work/junior-independent-work/">course description</a></button>
 * <u>Office hours:</u> 
