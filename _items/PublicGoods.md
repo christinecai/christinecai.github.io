@@ -10,6 +10,13 @@ description: Public Goods
 * <a href="https://taylorjwright.github.io/did-reading-group/">DiD Reading Group (Summer 2021)</a> (by Taylor Wright)
 * <a href="https://github.com/asjadnaqvi/DiD">Current literature on diff-in-diff</a> (by Asjad Naqvi)
 
+#### PhD-Level Classes and Notes
+* <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
+* <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
+* <a href="https://scholar.princeton.edu/zidar/classes">Graduate Public Finance lecture materials</a> (by Owen Zidar)
+* <a href="https://github.com/paulgp/GaryChamberlainLectureNotes">Gary Chamberlain's lecture notes</a> (by Paul Goldsmith-Pinkham)
+* <a href="https://floswald.github.io/ScPo-Labor/index.html">Graduate Labor Econ course materials</a> (by Florian Oswald)
+
 #### Coding
 ##### &nbsp;&nbsp;&nbsp;&nbsp; Stata
 * <a href="https://medium.com/the-stata-guide/the-stata-workflow-guide-52418ce35006">The Stata workflow guide</a> (by Asjad Naqvi)
@@ -35,13 +42,6 @@ description: Public Goods
 * <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
 * <a href="https://lost-stats.github.io">Statistical models across R/Python/Stata</a> (by the Library of Statistical Techniques)
 * <a href="https://medium.com/the-stata-guide/stata-and-github-integration-8c87ddf9784a">Stata and GitHub Integration</a> (by Asjad Naqvi)
-
-#### PhD-Level Classes and Notes
-* <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
-* <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
-* <a href="https://scholar.princeton.edu/zidar/classes">Graduate Public Finance lecture materials</a> (by Owen Zidar)
-* <a href="https://github.com/paulgp/GaryChamberlainLectureNotes">Gary Chamberlain's lecture notes</a> (by Paul Goldsmith-Pinkham)
-* <a href="https://floswald.github.io/ScPo-Labor/index.html">Graduate Labor Econ course materials</a> (by Florian Oswald)
 
 #### Before Grad School
 * <a href="https://raguide.github.io">Econ RA Guide</a> (by Coly Elhai et al.)
