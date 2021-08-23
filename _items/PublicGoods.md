@@ -26,6 +26,7 @@ description: Public Goods
 ##### Two or more languages
 * <a href="http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html">Stata-to-Python equivalents</a> (by Daniel M. Sullivan)
 * <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
+* <a href="https://lost-stats.github.io">Statistical models across R/Python/Stata</a> (by the Library of Statistical Techniques)
 
 #### Before Grad School
 * <a href="https://raguide.github.io">Econ RA Guide</a> (by Coly Elhai et al.)
