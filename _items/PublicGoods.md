@@ -11,6 +11,8 @@ description: Public Goods
 
 #### Coding
 * <a href="https://www.peretaberner.eu/tips-for-managing-large-scale-datasets-efficiently-in-stata/">Tips for managing large-scale datasets efficiently in Stata</a> (by Peter Taberner)
+* <a href="http://repec.sowi.unibe.ch/files/wp30/Jann-2018-grstyle-set.pdf">Customizing Stata graphs</a> (by Ben Jann)
+* <a href="https://github.com/michaelstepner/healthinequality-code/tree/main/code">Coding and do-file structure</a> (by Michael Stepner)
 
 #### Before Grad School
 * <a href="https://raguide.github.io">Econ RA Guide</a> (by Coly Elhai et al.)
