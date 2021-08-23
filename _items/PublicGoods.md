@@ -22,6 +22,7 @@ description: Public Goods
 * <a href="https://www.peretaberner.eu/tips-for-managing-large-scale-datasets-efficiently-in-stata/">Tips for managing large-scale datasets efficiently in Stata</a> (by Peter Taberner)
 * <a href="https://medium.com/the-stata-guide/maps-in-stata-ii-fcb574270269">Maps in Stata</a> (by Asjad Naqvi)
 * <a href="https://medium.com/the-stata-guide/advanced-mapping-with-stata-openstreetmap-osm-and-qgis-412c04d8ddd1">Advanced Mapping with Stata: OpenStreetMap (OSM) and QGIS</a> (by Asjad Naqvi)
+* <a href="https://medium.com/the-stata-guide/maximum-likelihood-estimation-mle-88b869158a7d">Stata guide on MLE</a> (by Asjad Naqvi)
 ##### Two or more languages
 * <a href="http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html">Stata-to-Python equivalents</a> (by Daniel M. Sullivan)
 * <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
