@@ -6,12 +6,14 @@ description: Public Goods
 
 #### Econometrics
 * Here is a document I have created that lists papers (titles and abstracts) on recent advances in applied micro methods: <button type="button" class="btn btn-xs btn-default"><a href="/PublicGoods/applied_micro_methods.pdf">light mode PDF</a></button> <button type="button" class="btn btn-xs btn-default"><a href="/PublicGoods/applied_micro_methods_dark_mode.pdf">dark mode PDF</a></button>
+* <a href="https://www.chloeneast.com/metrics-discussions.html">Metrics discussions: diff-in-diff and event studies</a> (by Chloe East)
 * <a href="https://github.com/asjadnaqvi/DiD">Current literature on diff-in-diff</a> (by Asjad Naqvi)
 
 #### Coding
 * <a href="https://www.peretaberner.eu/tips-for-managing-large-scale-datasets-efficiently-in-stata/">Tips for managing large-scale datasets efficiently in Stata</a> (by Peter Taberner)
 
 #### Before Grad School
+* <a href="https://raguide.github.io">Econ RA Guide</a> (by Coly Elhai et al.)
 * <a href="https://twitter.com/logwithbasee/status/1406924226393612295?s=20">Guide to Applying for Ph.D. programs in Econ</a> (by Lakshya Narula)
 
 #### Grad School and the Job Market
