@@ -4,7 +4,7 @@ title: Teaching
 description: Teaching
 ---
 
-### <p style="color:orange;">Academic year 2021-2022</p>
+### Academic year 2021-2022
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; ECO 981 Junior Independent Work
 * <u>Role:</u> Teaching Assistant for <a href="https://economics.princeton.edu/people/">Professor Kelly Noonan</a>
@@ -14,14 +14,14 @@ description: Teaching
   - Schedule an appointment <button type="button" class="btn btn-xs btn-default"><a href="mailto:christine.cai@princeton.edu">by email</a></button>
 * <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/courses/5014">see Canvas</a></button>
   
-#### ECO 100 Introduction to Microeconomics
+#### &nbsp;&nbsp;&nbsp;&nbsp; ECO 100 Introduction to Microeconomics
 * <u>Role:</u> Teaching Assistant for <a href="https://scholar.princeton.edu/lboustan/home">Professor Leah P. Boustan</a>
 * <u>Semester(s):</u> Spring 2021
 * <u>Office hours:</u> TBD
 * <u>Materials:</u> TBD
 
 
-### <p style="color:orange;">Academic year 2020-2021</p>
+### Academic year 2020-2021
 
 #### ECO 981 Junior Independent Work
 * <u>Role:</u> Teaching Assistant for <a href="https://irs.princeton.edu/people/orley-c-ashenfelter">Professor Orley Ashenfelter</a>
