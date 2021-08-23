@@ -24,7 +24,7 @@ description: Teaching
 
 <hr />
 
-### Academic year 2020-2021
+<center>### Academic year 2020-2021</center>
 
 #### &nbsp; ECO 981 Junior Independent Work
 * <u>Role:</u> Teaching Assistant for <a href="https://irs.princeton.edu/people/orley-c-ashenfelter">Professor Orley Ashenfelter</a>
