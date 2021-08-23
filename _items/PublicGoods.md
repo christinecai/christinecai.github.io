@@ -31,7 +31,6 @@ description: Public Goods
 ##### LaTeX
 * <a href="https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf">LaTeX Table Hints and Tips</a> (by Adrian P. Robson)
 ##### Two or more languages
-* <a href="https://ekatsevi.github.io/computing/">Statistical computing tips</a> (by Eugene Katsevich)
 * <a href="http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html">Stata-to-Python equivalents</a> (by Daniel M. Sullivan)
 * <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
 * <a href="https://lost-stats.github.io">Statistical models across R/Python/Stata</a> (by the Library of Statistical Techniques)
