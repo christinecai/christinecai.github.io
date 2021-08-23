@@ -14,9 +14,9 @@ description: Public Goods
 * <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
 * <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
 * <a href="https://scholar.princeton.edu/zidar/classes">Graduate Public Finance lecture materials</a> (by Owen Zidar)
-* <a href="https://github.com/paulgp/GaryChamberlainLectureNotes">Gary Chamberlain's lecture notes</a> (by Paul Goldsmith-Pinkham)
 * <a href="https://economics.mit.edu/faculty/dautor/courses">Graduate Labor Econ course materials</a> (by David Autor)
 * <a href="https://floswald.github.io/ScPo-Labor/index.html">Graduate (Macro) Labor Econ course materials</a> (by Florian Oswald)
+* <a href="https://github.com/paulgp/GaryChamberlainLectureNotes">Gary Chamberlain's lecture notes</a> (by Paul Goldsmith-Pinkham)
 
 #### Coding
 ##### &nbsp;&nbsp;&nbsp;&nbsp; Stata
