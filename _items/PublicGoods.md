@@ -23,6 +23,8 @@ description: Public Goods
 * <a href="https://hhsievertsen.shinyapps.io/r_introduction/">Introduction to R</a> (by Hans H. Sievertsen)
 * <a href="https://hhsievertsen.github.io/applied_econ_with_r/">Applied Economics with R</a> (by Hans H. Sievertsen)
 * <a href="https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html">Regression analysis in R</a> (by Grant R. McDermott)
+* <a href="https://www.peretaberner.eu/list-of-open-source-books-about-r/">List of open source books about R</a> (by Pere A. Taberner)
+* <a href="https://www.bigbookofr.com/index.html">Big Book of R</a> (by Oscar Baruffa)
 ##### Two or more languages
 * <a href="http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html">Stata-to-Python equivalents</a> (by Daniel M. Sullivan)
 * <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
