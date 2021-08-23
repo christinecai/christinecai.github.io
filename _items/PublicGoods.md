@@ -20,6 +20,8 @@ description: Public Goods
 * <a href="https://medium.com/the-stata-guide/mata-statas-end-game-5983c0ee11bd?source=social.tw&_branch_match_id=955508410231803293">Stata guide on Mata</a> (by Asjad Naqvi)
 * <a href="https://medium.com/the-stata-guide/maximum-likelihood-estimation-mle-88b869158a7d">Stata guide on MLE</a> (by Asjad Naqvi)
 ##### R
+* <a href="https://hhsievertsen.shinyapps.io/r_introduction/">Introduction to R</a> (by Hans H. Sievertsen)
+* <a href="https://hhsievertsen.github.io/applied_econ_with_r/">Applied Economics with R</a> (by Hans H. Sievertsen)
 * <a href="https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html">Regression analysis in R</a> (by Grant R. McDermott)
 ##### Two or more languages
 * <a href="http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html">Stata-to-Python equivalents</a> (by Daniel M. Sullivan)
