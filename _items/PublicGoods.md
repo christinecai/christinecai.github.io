@@ -24,12 +24,12 @@ description: Public Goods
 * <a href="https://github.com/michaelstepner/healthinequality-code/tree/main/code">Coding and do-file structure</a> (by Michael Stepner)
 * <a href="https://www.stata.com/bookstore/stata-cheat-sheets/">Stata cheat sheets</a> (by Tim Essam & Laura Hughes)
 * <a href="http://repec.sowi.unibe.ch/files/wp30/Jann-2018-grstyle-set.pdf">Customizing Stata graphs</a> (by Ben Jann)
-* <a href="http://cameron.econ.ucdavis.edu/musbook/MUS2_Draft_Contents_November_2020.pdf">Microeconometrics Using Stata</a> (by Colin Cameron & Pravin Trivedi)
-* <a href="https://www.peretaberner.eu/tips-for-managing-large-scale-datasets-efficiently-in-stata/">Tips for managing large-scale datasets efficiently in Stata</a> (by Peter Taberner)
 * <a href="https://medium.com/the-stata-guide/maps-in-stata-ii-fcb574270269">Maps in Stata</a> (by Asjad Naqvi)
 * <a href="https://medium.com/the-stata-guide/advanced-mapping-with-stata-openstreetmap-osm-and-qgis-412c04d8ddd1">Advanced Mapping with Stata: OpenStreetMap (OSM) and QGIS</a> (by Asjad Naqvi)
 * <a href="https://medium.com/the-stata-guide/mata-statas-end-game-5983c0ee11bd?source=social.tw&_branch_match_id=955508410231803293">Stata guide on Mata</a> (by Asjad Naqvi)
 * <a href="https://medium.com/the-stata-guide/maximum-likelihood-estimation-mle-88b869158a7d">Stata guide on MLE</a> (by Asjad Naqvi)
+* <a href="http://cameron.econ.ucdavis.edu/musbook/MUS2_Draft_Contents_November_2020.pdf">Microeconometrics Using Stata</a> (by Colin Cameron & Pravin Trivedi)
+* <a href="https://www.peretaberner.eu/tips-for-managing-large-scale-datasets-efficiently-in-stata/">Tips for managing large-scale datasets efficiently in Stata</a> (by Peter Taberner)
 ##### R
 * <a href="https://hhsievertsen.shinyapps.io/r_introduction/">Introduction to R</a> (by Hans H. Sievertsen)
 * <a href="https://hhsievertsen.github.io/applied_econ_with_r/">Applied Economics with R</a> (by Hans H. Sievertsen)
@@ -39,10 +39,10 @@ description: Public Goods
 ##### LaTeX
 * <a href="https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf">LaTeX Table Hints and Tips</a> (by Adrian P. Robson)
 ##### Two or more languages
-* <a href="http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html">Stata-to-Python equivalents</a> (by Daniel M. Sullivan)
-* <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
 * <a href="https://lost-stats.github.io">Statistical models across R/Python/Stata</a> (by the Library of Statistical Techniques)
+* <a href="http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html">Stata-to-Python equivalents</a> (by Daniel M. Sullivan)
 * <a href="https://medium.com/the-stata-guide/stata-and-github-integration-8c87ddf9784a">Stata and GitHub Integration</a> (by Asjad Naqvi)
+* <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
 
 #### Before Grad School
 * <a href="https://raguide.github.io">Econ RA Guide</a> (by Coly Elhai et al.)
