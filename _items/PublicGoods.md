@@ -43,6 +43,7 @@ description: Public Goods
 ##### Two or more languages
 * <a href="https://lost-stats.github.io">Statistical models across R/Python/Stata</a> (by the Library of Statistical Techniques)
 * <a href="http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html">Stata-to-Python equivalents</a> (by Daniel M. Sullivan)
+* <a href="https://statatexblog.com">StataTex Blog: Tips for Stata, Latex and other useful resources for applied economists</a> (by Jan Sauermann)
 * <a href="https://medium.com/the-stata-guide/stata-and-github-integration-8c87ddf9784a">Stata and GitHub Integration</a> (by Asjad Naqvi)
 * <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
 
@@ -59,6 +60,7 @@ description: Public Goods
 * <a href="https://sites.google.com/site/amandayagan/writingadvice?authuser=0">Writing and Presentation Advice</a> (by Amanda Yagan)
 * <a href="https://twitter.com/TDeryugina/status/1428353535414992914?s=20">Writing a JMP</a> (by Tatyana Deryugina)
 * <a href="http://www.ericzwick.com/public_goods/love_the_market.pdf">How I Learned to Stop Worrying and Love the Job Market</a> (by Eric Zwick)
+* <a href="https://statatexblog.com/useful-links/">General resources: writing paper, the editorial process, and job (market) advice</a> (by Jan Sauermann)
 
 #### After Grad School
 * <a href="https://tyleransom.medium.com/tips-for-new-tenure-track-professors-in-r1-economics-departments-fa2e9977d09c0">Tips for new tenure-track professors in R1 economics departments</a> (by Tyler Ransom)
