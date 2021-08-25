@@ -17,11 +17,13 @@ description: Public Goods
 * <a href="https://economics.mit.edu/faculty/dautor/courses">Graduate Labor Econ course materials</a> (by David Autor)
 * <a href="https://floswald.github.io/ScPo-Labor/index.html">Graduate (Macro) Labor Econ course materials</a> (by Florian Oswald)
 * <a href="https://github.com/paulgp/GaryChamberlainLectureNotes">Gary Chamberlain's lecture notes</a> (by Paul Goldsmith-Pinkham)
+* <a href="http://www.simonrquinn.com/teaching/">Graduate Development & Econometrics lecture notes</a> (by Simon Quinn)
 
 #### Coding
 ##### &nbsp;&nbsp;&nbsp;&nbsp; Stata
 * <a href="https://medium.com/the-stata-guide/the-stata-workflow-guide-52418ce35006">The Stata workflow guide</a> (by Asjad Naqvi)
 * <a href="https://github.com/michaelstepner/healthinequality-code/tree/main/code">Coding and do-file structure</a> (by Michael Stepner)
+* <a href="https://julianreif.com/guide/#other-helpful-links">Stata coding guide</a> (by Julian Reif)
 * <a href="https://www.stata.com/bookstore/stata-cheat-sheets/">Stata cheat sheets</a> (by Tim Essam & Laura Hughes)
 * <a href="http://repec.sowi.unibe.ch/files/wp30/Jann-2018-grstyle-set.pdf">Customizing Stata graphs</a> (by Ben Jann)
 * <a href="https://medium.com/the-stata-guide/maps-in-stata-ii-fcb574270269">Maps in Stata</a> (by Asjad Naqvi)
@@ -54,8 +56,10 @@ description: Public Goods
 * <a href="http://www.ricardodahis.com/files/papers/Dahis_Advice_Research.pdf">Advice for Academic Research</a> (by Ricardo Dahis)
 * <a href="http://www.ericzwick.com/public_goods/twelve_steps.pdf">The 12 Step Program for Grad School</a> (by Eric Zwick)
 * <a href="https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fd8wm9%2Fdownload">Slides on public speaking for academic economists (especially for grad students)</a> (by Rachael Meager)
+* <a href="https://sites.google.com/site/amandayagan/writingadvice?authuser=0">Writing and Presentation Advice</a> (by Amanda Yagan)
 * <a href="https://twitter.com/TDeryugina/status/1428353535414992914?s=20">Writing a JMP</a> (by Tatyana Deryugina)
 * <a href="http://www.ericzwick.com/public_goods/love_the_market.pdf">How I Learned to Stop Worrying and Love the Job Market</a> (by Eric Zwick)
 
 #### After Grad School
 * <a href="https://tyleransom.medium.com/tips-for-new-tenure-track-professors-in-r1-economics-departments-fa2e9977d09c0">Tips for new tenure-track professors in R1 economics departments</a> (by Tyler Ransom)
+* <a href="https://www.aeaweb.org/about-aea/committees/cswep/mentoring/reading">Mentoring Reading Materials</a> (by the American Economic Association)
