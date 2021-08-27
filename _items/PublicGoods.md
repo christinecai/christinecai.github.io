@@ -48,9 +48,11 @@ description: Public Goods
 * <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
 
 #### Before Grad School
+* <a href="https://blog.academicsequitur.com/2019/06/11/should-you-get-a-phd/">Should you get a PhD?</a> (by Tatyana Deryugina)
 * <a href="https://raguide.github.io">Econ RA Guide</a> (by Coly Elhai et al.)
-* <a href="https://twitter.com/logwithbasee/status/1406924226393612295?s=20">Guide to Applying for Ph.D. programs in Econ</a> (by Lakshya Narula et al.)
 * <a href="https://www.dropbox.com/s/eej9n1ywknlzcu6/Applied%20Tips%20for%20Applied%20Micro%20RAs.pdf?dl=0">Applied Tips for Applied Micro RAs</a> (by Livia Alfonsi)
+* <a href="https://twitter.com/logwithbasee/status/1406924226393612295?s=20">Guide to Applying for Ph.D. programs in Econ</a> (by Lakshya Narula et al.)
+
 
 #### Grad School and the Job Market
 * <a href="https://ekatsevi.github.io/literature/">Keeping track of the literature</a> (by Eugene Katsevich)
@@ -63,5 +65,10 @@ description: Public Goods
 * <a href="https://statatexblog.com/useful-links/">General resources: writing paper, the editorial process, and job (market) advice</a> (by Jan Sauermann)
 
 #### After Grad School
+* <a href="https://blog.academicsequitur.com/2019/03/18/how-to-be-a-productive-researcher/">How to be a productive researcher</a> (by Tatyana Deryugina)
 * <a href="https://tyleransom.medium.com/tips-for-new-tenure-track-professors-in-r1-economics-departments-fa2e9977d09c0">Tips for new tenure-track professors in R1 economics departments</a> (by Tyler Ransom)
 * <a href="https://www.aeaweb.org/about-aea/committees/cswep/mentoring/reading">Mentoring Reading Materials</a> (by the American Economic Association)
+* <a href="https://blog.academicsequitur.com/2019/02/17/how-to-pick-which-journal-to-submit-your-manuscript-to/">How to know which journal to submit your manuscript to</a> (by Tatyana Deryugina)
+* <a href="https://blog.academicsequitur.com/2019/06/30/how-to-write-a-good-referee-report/">How to write a good referee report</a> (by Tatyana Deryugina)
+* <a href="https://blog.academicsequitur.com/2019/03/05/when-to-give-up-on-a-paper/">When to give up on a paper</a> (by Tatyana Deryugina)
+* <a href="https://blog.academicsequitur.com/2019/02/25/what-to-do-after-a-rejection/">What to do after a rejection</a> (by Tatyana Deryugina)
