@@ -67,8 +67,8 @@ description: Public Goods
 #### After Grad School
 * <a href="https://blog.academicsequitur.com/2019/03/18/how-to-be-a-productive-researcher/">How to be a productive researcher</a> (by Tatyana Deryugina)
 * <a href="https://tyleransom.medium.com/tips-for-new-tenure-track-professors-in-r1-economics-departments-fa2e9977d09c0">Tips for new tenure-track professors in R1 economics departments</a> (by Tyler Ransom)
-* <a href="https://www.aeaweb.org/about-aea/committees/cswep/mentoring/reading">Mentoring Reading Materials</a> (by the American Economic Association)
 * <a href="https://blog.academicsequitur.com/2019/02/17/how-to-pick-which-journal-to-submit-your-manuscript-to/">How to know which journal to submit your manuscript to</a> (by Tatyana Deryugina)
 * <a href="https://blog.academicsequitur.com/2019/06/30/how-to-write-a-good-referee-report/">How to write a good referee report</a> (by Tatyana Deryugina)
 * <a href="https://blog.academicsequitur.com/2019/03/05/when-to-give-up-on-a-paper/">When to give up on a paper</a> (by Tatyana Deryugina)
 * <a href="https://blog.academicsequitur.com/2019/02/25/what-to-do-after-a-rejection/">What to do after a rejection</a> (by Tatyana Deryugina)
+* <a href="https://www.aeaweb.org/about-aea/committees/cswep/mentoring/reading">Mentoring Reading Materials</a> (by the American Economic Association)
