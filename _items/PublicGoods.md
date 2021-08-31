@@ -21,6 +21,7 @@ description: Public Goods
 
 #### Coding
 ##### &nbsp;&nbsp;&nbsp;&nbsp; Stata
+* <a href="https://aeturrell.github.io/coding-for-economists/intro.html">Coding for Economists</a> (by Arthur Turrell)
 * <a href="https://medium.com/the-stata-guide/the-stata-workflow-guide-52418ce35006">The Stata workflow guide</a> (by Asjad Naqvi)
 * <a href="https://github.com/michaelstepner/healthinequality-code/tree/main/code">Coding and do-file structure</a> (by Michael Stepner)
 * <a href="https://julianreif.com/guide/#other-helpful-links">Stata coding guide</a> (by Julian Reif)
