@@ -57,6 +57,7 @@ description: Public Goods
 
 #### Grad School and the Job Market
 * <a href="https://ekatsevi.github.io/literature/">Keeping track of the literature</a> (by Eugene Katsevich)
+* <a href="https://github.com/kylebutts/templates/blob/master/latex-slides/slides.tex">LaTeX's Beamer slides template</a> (by Kyle Butts)
 * <a href="http://www.ricardodahis.com/files/papers/Dahis_Advice_Research.pdf">Advice for Academic Research</a> (by Ricardo Dahis)
 * <a href="http://www.ericzwick.com/public_goods/twelve_steps.pdf">The 12 Step Program for Grad School</a> (by Eric Zwick)
 * <a href="https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fd8wm9%2Fdownload">Slides on public speaking for academic economists (especially for grad students)</a> (by Rachael Meager)
