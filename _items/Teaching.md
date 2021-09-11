@@ -12,7 +12,8 @@ description: Teaching
 * <u>Role:</u> Teaching Assistant for <a href="https://economics.princeton.edu/people/">Professor Kelly Noonan</a>
 * <u>Semester(s):</u> Fall 2021 & Spring 2022 <button type="button" class="btn btn-xs btn-default"><a href="https://economics.princeton.edu/undergraduate-program/independent-work/junior-independent-work/">course description</a></button>
 * <u>Office hours:</u> 
-  - TBA <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>
+  - Thursday, 5:00 PM - 6:00 PM, JRRB A74 <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>
+  - Friday, 11:00 AM - 12:00 PM, LASI 240B <button type="button" class="btn btn-xs btn-default"><a href="https://wase.princeton.edu">sign up on WASE</a></button>
   - Schedule an appointment <button type="button" class="btn btn-xs btn-default"><a href="mailto:christine.cai@princeton.edu">by email</a></button>
 * <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/courses/5014">see Canvas</a></button>
   
