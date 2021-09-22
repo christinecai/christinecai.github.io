@@ -15,7 +15,7 @@ description: Teaching
   - Thursday, 5:00 PM - 6:00 PM, JRRB A74 or Zoom <button type="button" class="btn btn-xs btn-default"><a href="https://calendly.com/christine-cai/eco-981-ai-office-hours">sign up on Calendly</a></button>
   - Friday, 11:00 AM - 12:00 PM, LASI 240B or Zoom <button type="button" class="btn btn-xs btn-default"><a href="https://calendly.com/christine-cai/eco-981-ai-office-hours">sign up on Calendly</a></button>
   - Schedule an appointment <button type="button" class="btn btn-xs btn-default"><a href="mailto:christine.cai@princeton.edu">by email</a></button>
-* <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/courses/5014">see Canvas</a></button>
+* <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/groups/5404/pages">see Canvas</a></button>
   
 #### &nbsp; ECO 100 Introduction to Microeconomics
 * <u>Role:</u> Teaching Assistant for <a href="https://scholar.princeton.edu/lboustan/home">Professor Leah P. Boustan</a>
