@@ -52,8 +52,9 @@ description: Public Goods
 #### Before Grad School
 * <a href="https://blog.academicsequitur.com/2019/06/11/should-you-get-a-phd/">Should you get a PhD?</a> (by Tatyana Deryugina)
 * <a href="https://raguide.github.io">Econ RA Guide</a> (by Coly Elhai et al.)
-* <a href="https://www.dropbox.com/s/eej9n1ywknlzcu6/Applied%20Tips%20for%20Applied%20Micro%20RAs.pdf?dl=0">Applied Tips for Applied Micro RAs</a> (by Livia Alfonsi)
+* <a href="https://www.dropbox.com/s/eej9n1ywknlzcu6/Applied%20Tips%20for%20Applied%20Micro%20RAs.pdf?dl=0">Tips for Applied Micro RAs</a> (by Livia Alfonsi)
 * <a href="https://twitter.com/logwithbasee/status/1406924226393612295?s=20">Guide to Applying for Ph.D. programs in Econ</a> (by Lakshya Narula et al.)
+* <a href="https://riccardodicato.wordpress.com/2021/04/23/phd_application_tips/">PhD Application Tips</a> (by Riccardo Di Cato)
 
 
 #### Grad School and the Job Market
