@@ -16,6 +16,20 @@ description: Teaching
   - Friday, 11:00 AM - 12:00 PM, LASI 240B or Zoom <button type="button" class="btn btn-xs btn-default"><a href="https://calendly.com/christine-cai/eco-981-ai-office-hours">sign up on Calendly</a></button>
   - Schedule an appointment <button type="button" class="btn btn-xs btn-default"><a href="mailto:christine.cai@princeton.edu">by email</a></button>
 * <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/groups/5404/pages">see Canvas</a></button>
+
+#### &nbsp; ECO 981 Data Management Workshop
+* <u>Role:</u> Instructor
+* <u>Semester(s):</u> Fall 2021 
+* <u>Sessions:</u> 
+  - Monday, 10/25/2021, 3:00 PM - 4:20 PM, Friend 007
+  - Monday, 10/25/2021, 7:30 PM - 8:50 PM, Friend 007
+  - Wednesday, 10/27/2021, 3:00 PM - 4:20 PM, Friend 007
+  - Wednesday, 10/27/2021, 7:30 PM - 8:50 PM, Friend 007
+  - Monday, 11/01/2021, 3:00 PM - 4:20 PM, Friend 007
+  - Monday, 10/01/2021, 7:30 PM - 8:50 PM, Friend 007
+  - Wednesday, 10/03/2021, 3:00 PM - 4:20 PM, Friend 007
+  - Wednesday, 10/03/2021, 7:30 PM - 8:50 PM, Friend 007
+* <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/courses/5014/modules">see Canvas</a></button>
   
 #### &nbsp; ECO 100 Introduction to Microeconomics
 * <u>Role:</u> Teaching Assistant for <a href="https://scholar.princeton.edu/lboustan/home">Professor Leah P. Boustan</a>
