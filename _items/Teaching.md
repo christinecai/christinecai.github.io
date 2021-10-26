@@ -26,9 +26,9 @@ description: Teaching
   - Wednesday, 10/27/2021, 3:00 PM - 4:20 PM, Friend 007
   - Wednesday, 10/27/2021, 7:30 PM - 8:50 PM, Friend 007
   - Monday, 11/01/2021, 3:00 PM - 4:20 PM, Friend 007
-  - Monday, 10/01/2021, 7:30 PM - 8:50 PM, Friend 007
-  - Wednesday, 10/03/2021, 3:00 PM - 4:20 PM, Friend 007
-  - Wednesday, 10/03/2021, 7:30 PM - 8:50 PM, Friend 007
+  - Monday, 11/01/2021, 7:30 PM - 8:50 PM, Friend 007
+  - Wednesday, 11/03/2021, 3:00 PM - 4:20 PM, Friend 007
+  - Wednesday, 11/03/2021, 7:30 PM - 8:50 PM, Friend 007
 * <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/courses/5014/modules">see Canvas</a></button>
   
 #### &nbsp; ECO 100 Introduction to Microeconomics
