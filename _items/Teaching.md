@@ -33,7 +33,7 @@ description: Teaching
   
 #### &nbsp; ECO 100 Introduction to Microeconomics
 * <u>Role:</u> Teaching Assistant for <a href="https://scholar.princeton.edu/lboustan/home">Professor Leah P. Boustan</a>
-* <u>Semester(s):</u> Spring 2022
+* <u>Semester(s):</u> Spring 2022 <button type="button" class="btn btn-xs btn-default"><a href="https://registrar.princeton.edu/course-offerings/course-details?term=1224&courseid=001381">course description</a></button>
 * <u>Office hours:</u> TBD
 * <u>Materials:</u> TBD
 
