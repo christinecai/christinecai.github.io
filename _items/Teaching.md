@@ -36,7 +36,7 @@ description: Teaching
   - Wednesday, 11/03/2021, 3:00 PM - 4:20 PM, Friend 007
   - Wednesday, 11/03/2021, 7:30 PM - 8:50 PM, Friend 007
   - Tuesday, 18/01/2022, 10:00 AM - 12:00 PM, Zoom
-* <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/courses/5014/modules">see Canvas</a></button>
+* <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/courses/5014/modules">see Canvas</a></button> & Slack
 
 <hr />
 
