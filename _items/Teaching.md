@@ -23,9 +23,9 @@ description: Teaching
   - Schedule an appointment <button type="button" class="btn btn-xs btn-default"><a href="mailto:christine.cai@princeton.edu">by email</a></button>
 * <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/groups/5404/pages">see Canvas</a></button>
 
-#### &nbsp; ECO 981 Data Management Workshop
+#### &nbsp; Data Management Workshop
 * <u>Role:</u> Instructor
-* <u>Semester(s):</u> Fall 2021 
+* <u>Semester(s):</u> Fall & Winter 2021 
 * <u>Sessions:</u> 
   - Monday, 10/25/2021, 3:00 PM - 4:20 PM, Friend 007
   - Monday, 10/25/2021, 7:30 PM - 8:50 PM, Friend 007
@@ -35,6 +35,7 @@ description: Teaching
   - Monday, 11/01/2021, 7:30 PM - 8:50 PM, Friend 007
   - Wednesday, 11/03/2021, 3:00 PM - 4:20 PM, Friend 007
   - Wednesday, 11/03/2021, 7:30 PM - 8:50 PM, Friend 007
+  - Tuesday, 18/01/2022, 10:00 AM - 12:00 PM, Zoom
 * <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/courses/5014/modules">see Canvas</a></button>
 
 <hr />
