@@ -46,6 +46,7 @@ description: Public Goods
 * <a href="https://lost-stats.github.io">Statistical models across R/Python/Stata</a> (by the Library of Statistical Techniques)
 * <a href="http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html">Stata-to-Python equivalents</a> (by Daniel M. Sullivan)
 * <a href="https://kylebutts.com/pages/fixest_cheatsheet/">Stata/R cheatsheets</a> (by Kyle Butts)
+* <a href="https://kylebutts.com/pages/fixest_cheatsheet/">Translating Stata to R</a>
 * <a href="https://statatexblog.com">StataTex Blog: Tips for Stata, Latex and other useful resources for applied economists</a> (by Jan Sauermann)
 * <a href="https://medium.com/the-stata-guide/stata-and-github-integration-8c87ddf9784a">Stata and GitHub Integration</a> (by Asjad Naqvi)
 * <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
@@ -56,7 +57,6 @@ description: Public Goods
 * <a href="https://www.dropbox.com/s/eej9n1ywknlzcu6/Applied%20Tips%20for%20Applied%20Micro%20RAs.pdf?dl=0">Tips for Applied Micro RAs</a> (by Livia Alfonsi)
 * <a href="https://twitter.com/logwithbasee/status/1406924226393612295?s=20">Guide to Applying for Ph.D. programs in Econ</a> (by Lakshya Narula et al.)
 * <a href="https://riccardodicato.wordpress.com/2021/04/23/phd_application_tips/">PhD Application Tips</a> (by Riccardo Di Cato)
-
 
 #### Grad School and the Job Market
 * <a href="https://ekatsevi.github.io/literature/">Keeping track of the literature</a> (by Eugene Katsevich)
