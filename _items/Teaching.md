@@ -19,7 +19,7 @@ description: Teaching
 * <u>Semester(s):</u> Fall 2021 & Spring 2022 <button type="button" class="btn btn-xs btn-default"><a href="https://economics.princeton.edu/undergraduate-program/independent-work/junior-independent-work/">course description</a></button>
 * <u>Office hours:</u> 
   - Monday, 11:00 AM - 12:00 PM, LASI 264 or Zoom <button type="button" class="btn btn-xs btn-default"><a href="https://calendly.com/christine-cai/eco-981-ai-office-hours">sign up on Calendly</a></button>
-  - Thursday, 5:00 PM - 6:00 PM, LASI 264 or Zoom <button type="button" class="btn btn-xs btn-default"><a href="https://calendly.com/christine-cai/eco-981-ai-office-hours">sign up on Calendly</a></button>
+  - Thursday, 11:00 AM - 12:00 PM, LASI 264 or Zoom <button type="button" class="btn btn-xs btn-default"><a href="https://calendly.com/christine-cai/eco-981-ai-office-hours">sign up on Calendly</a></button>
   - Schedule an appointment <button type="button" class="btn btn-xs btn-default"><a href="mailto:christine.cai@princeton.edu">by email</a></button>
 * <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/groups/5404/pages">see Canvas</a></button>
 
