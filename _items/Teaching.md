@@ -11,7 +11,7 @@ description: Teaching
 #### &nbsp; ECO 100 Introduction to Microeconomics
 * <u>Role:</u> Teaching Assistant for <a href="https://scholar.princeton.edu/lboustan/home">Professor Leah P. Boustan</a>
 * <u>Semester(s):</u> Spring 2022 <button type="button" class="btn btn-xs btn-default"><a href="https://registrar.princeton.edu/course-offerings/course-details?term=1224&courseid=001381">course description</a></button>
-* <u>Office hours:</u> Thursday, 3:30 PM - 4:30 PM, JRRB A74 
+* <u>Office hours:</u> Thursday, 4:00 PM - 5:00 PM, LASI 254 
 * <u>Materials:</u> <button type="button" class="btn btn-xs btn-default"><a href="https://princeton.instructure.com/courses/6026">see Canvas</a></button>
 
 #### &nbsp; ECO 981 Junior Independent Work
