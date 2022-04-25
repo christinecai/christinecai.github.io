@@ -13,6 +13,7 @@ description: Public Goods
 #### PhD-Level Class Materials
 * <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
 * <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
+* <a href="https://www.pascalmichaillat.org/t3.html">Graduate Macroeconomics course materials</a> (by Pascal Michaillat)
 * <a href="https://scholar.princeton.edu/zidar/classes">Graduate Public Finance lecture materials</a> (by Owen Zidar)
 * <a href="https://economics.mit.edu/faculty/dautor/courses">Graduate Labor Econ course materials</a> (by David Autor)
 * <a href="https://github.com/jdingel/econ35101">Graduate International Macro and Trade course materials</a> (by Jonathan Dingel)
@@ -66,6 +67,7 @@ description: Public Goods
 * <a href="https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fd8wm9%2Fdownload">Slides on public speaking for academic economists (especially for grad students)</a> (by Rachael Meager)
 * <a href="https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf">How to Give an Applied Micro Talk</a> (by Jesse M. Shapiro)
 * <a href="https://sites.google.com/site/amandayagan/writingadvice?authuser=0">Writing and Presentation Advice</a> (by Amanda Yagan)
+* <a href="https://www.iza.org/publications/dp/15057">Writing Tips for Economics Research Papers</a> (by Plamen Nikolov)
 * <a href="https://twitter.com/TDeryugina/status/1428353535414992914?s=20">Writing a JMP</a> (by Tatyana Deryugina)
 * <a href="http://www.ericzwick.com/public_goods/love_the_market.pdf">How I Learned to Stop Worrying and Love the Job Market</a> (by Eric Zwick)
 * <a href="https://statatexblog.com/useful-links/">General resources: writing paper, the editorial process, and job (market) advice</a> (by Jan Sauermann)
