@@ -4,8 +4,8 @@ title: Christine Cai
 description: Homepage
 ---
 
-#### Ph.D. Candidate in Economics at Princeton University
-#### Visiting Scholar at the Wharton School of the University of Pennsylvania
+#### Ph.D. Candidate in Economics at Princeton
+### Visiting Scholar at Wharton
 
 <hr />
 
