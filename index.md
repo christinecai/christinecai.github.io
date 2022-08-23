@@ -5,7 +5,7 @@ description: Homepage
 ---
 
 #### Ph.D. Candidate in Economics at Princeton
-### Visiting Scholar at Wharton
+##### Visiting Scholar at Wharton
 
 <hr />
 
