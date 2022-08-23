@@ -20,7 +20,7 @@ description: Homepage
 			
 <u>Main topics of interest:</u> segregation, migrations, social mobility, educational/racial inequalities
 
-<u>Advisors: </u><a href="https://scholar.princeton.edu/lboustan/home">Leah Boustan</a> & <a href="https://scholar.princeton.edu/kuziemko/home">Ilyana Kuziemko</a>
+<u>Advisors:</u> <a href="https://scholar.princeton.edu/lboustan/home">Leah Boustan</a> & <a href="https://scholar.princeton.edu/kuziemko/home">Ilyana Kuziemko</a>
 	
 <u>CV:</u> <a href="/assets/pdf/Christine_Cai_CV.pdf">click here</a>
 
