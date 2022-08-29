@@ -20,7 +20,7 @@ description: Public Goods
 * <a href="https://floswald.github.io/ScPo-Labor/index.html">Graduate (Macro) Labor Econ course materials</a> (by Florian Oswald)
 * <a href="https://github.com/paulgp/GaryChamberlainLectureNotes">Gary Chamberlain's lecture notes</a> (by Paul Goldsmith-Pinkham)
 * <a href="http://www.simonrquinn.com/teaching/">Graduate Development & Econometrics lecture notes</a> (by Simon Quinn)
-* <a href="[http://www.simonrquinn.com/teaching/](https://web.stanford.edu/~swager/stats361.pdf)">Causal Inference</a> (by Stefan Wager)
+* <a href="https://web.stanford.edu/~swager/stats361.pdf">Causal Inference</a> (by Stefan Wager)
 
 #### Coding
 ##### Stata
@@ -44,7 +44,7 @@ description: Public Goods
 * <a href="https://www.peretaberner.eu/list-of-open-source-books-about-r/">List of open source books about R</a> (by Pere A. Taberner)
 * <a href="https://www.bigbookofr.com/index.html">Big Book of R</a> (by Oscar Baruffa)
 ##### Python 
-* <a href="[https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf](https://pyecon.org/down/pyecon.pdf)">Python for Econometrics</a> (by Fabian H. C. Raters)
+* <a href="https://pyecon.org/down/pyecon.pdf">Python for Econometrics</a> (by Fabian H. C. Raters)
 * <a href="https://colab.research.google.com/github/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists/blob/master/Chapter1/good_practices.ipynb">Good Python Practices</a> (by Khuyen Tran)
 * <a href="https://colab.research.google.com/github/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists/blob/master/Chapter1/good_practices.ipynb">Introduction to Python for Econometrics, Statistics and Data Analysis</a> (by Kevin Sheppard)
 ##### LaTeX
