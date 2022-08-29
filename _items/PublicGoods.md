@@ -20,6 +20,7 @@ description: Public Goods
 * <a href="https://floswald.github.io/ScPo-Labor/index.html">Graduate (Macro) Labor Econ course materials</a> (by Florian Oswald)
 * <a href="https://github.com/paulgp/GaryChamberlainLectureNotes">Gary Chamberlain's lecture notes</a> (by Paul Goldsmith-Pinkham)
 * <a href="http://www.simonrquinn.com/teaching/">Graduate Development & Econometrics lecture notes</a> (by Simon Quinn)
+* <a href="[http://www.simonrquinn.com/teaching/](https://web.stanford.edu/~swager/stats361.pdf)">Causal Inference</a> (by Stefan Wager)
 
 #### Coding
 ##### Stata
