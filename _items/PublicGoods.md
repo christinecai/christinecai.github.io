@@ -22,7 +22,7 @@ description: Public Goods
 * <a href="http://www.simonrquinn.com/teaching/">Graduate Development & Econometrics lecture notes</a> (by Simon Quinn)
 
 #### Coding
-##### &nbsp;&nbsp;&nbsp;&nbsp; Stata
+##### Stata
 * <a href="https://aeturrell.github.io/coding-for-economists/intro.html">Coding for Economists</a> (by Arthur Turrell)
 * <a href="https://medium.com/the-stata-guide/the-stata-workflow-guide-52418ce35006">The Stata workflow guide</a> (by Asjad Naqvi)
 * <a href="https://github.com/michaelstepner/healthinequality-code/tree/main/code">Coding and do-file structure</a> (by Michael Stepner)
@@ -36,11 +36,15 @@ description: Public Goods
 * <a href="http://cameron.econ.ucdavis.edu/musbook/MUS2_Draft_Contents_November_2020.pdf">Microeconometrics Using Stata</a> (by Colin Cameron & Pravin Trivedi)
 * <a href="https://www.peretaberner.eu/tips-for-managing-large-scale-datasets-efficiently-in-stata/">Tips for managing large-scale datasets efficiently in Stata</a> (by Peter Taberner)
 ##### R
-* <a href="https://hhsievertsen.shinyapps.io/r_introduction/">Introduction to R</a> (by Hans H. Sievertsen)
+* <a href="[https://hhsievertsen.shinyapps.io/r_introduction/](https://www.econometrics-with-r.org/ITER.pdf)">R for Econometrics</a> (by Hans H. Sievertsen)
+* <a href="https://hhsievertsen.shinyapps.io/r_introduction/">Introduction to R</a> (by Christoph Hanck et al.)
 * <a href="https://hhsievertsen.github.io/applied_econ_with_r/">Applied Economics with R</a> (by Hans H. Sievertsen)
 * <a href="https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html">Regression analysis in R</a> (by Grant R. McDermott)
 * <a href="https://www.peretaberner.eu/list-of-open-source-books-about-r/">List of open source books about R</a> (by Pere A. Taberner)
 * <a href="https://www.bigbookofr.com/index.html">Big Book of R</a> (by Oscar Baruffa)
+##### Python 
+* <a href="[https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf](https://pyecon.org/down/pyecon.pdf)">Python for Econometrics</a> (by Fabian H. C. Raters)
+* <a href="https://colab.research.google.com/github/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists/blob/master/Chapter1/good_practices.ipynb">Good Python Practices</a> (by Khuyen Tran)
 ##### LaTeX
 * <a href="https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf">LaTeX Table Hints and Tips</a> (by Adrian P. Robson)
 ##### Two or more languages
