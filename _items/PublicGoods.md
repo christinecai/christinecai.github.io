@@ -21,6 +21,7 @@ description: Public Goods
 * <a href="https://github.com/paulgp/GaryChamberlainLectureNotes">Gary Chamberlain's lecture notes</a> (by Paul Goldsmith-Pinkham)
 * <a href="http://www.simonrquinn.com/teaching/">Graduate Development & Econometrics lecture notes</a> (by Simon Quinn)
 * <a href="https://web.stanford.edu/~swager/stats361.pdf">Causal Inference</a> (by Stefan Wager)
+* <a href="https://maxkasy.github.io/home/Nonlineareconometrics_MIT_2022/">Nonlinear Econometric Analysis</a> (by Maximilian Kasy)
 
 #### Coding
 ##### Stata
