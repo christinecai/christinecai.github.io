@@ -68,12 +68,13 @@ description: Public Goods
 * <a href="https://riccardodicato.wordpress.com/2021/04/23/phd_application_tips/">PhD Application Tips</a> (by Riccardo Di Cato)
 
 #### Grad School and the Job Market
-* <a href="https://ekatsevi.github.io/literature/">Keeping track of the literature</a> (by Eugene Katsevich)
-* <a href="https://github.com/kylebutts/templates/blob/master/latex-slides/slides.tex">LaTeX's Beamer slides template</a> (by Kyle Butts)
+* <a href="https://sites.google.com/view/econgradadvice/">Advice for Phd Students in Economics</a> (by Chris Roth & David Schindler)
 * <a href="http://www.ricardodahis.com/files/papers/Dahis_Advice_Research.pdf">Advice for Academic Research</a> (by Ricardo Dahis)
+* <a href="https://ekatsevi.github.io/literature/">Keeping track of the literature</a> (by Eugene Katsevich)
 * <a href="http://www.ericzwick.com/public_goods/twelve_steps.pdf">The 12 Step Program for Grad School</a> (by Eric Zwick)
 * <a href="https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fd8wm9%2Fdownload">Slides on public speaking for academic economists (especially for grad students)</a> (by Rachael Meager)
 * <a href="https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf">How to Give an Applied Micro Talk</a> (by Jesse M. Shapiro)
+* <a href="https://github.com/kylebutts/templates/blob/master/latex-slides/slides.tex">LaTeX's Beamer slides template</a> (by Kyle Butts)
 * <a href="https://sites.google.com/site/amandayagan/writingadvice?authuser=0">Writing and Presentation Advice</a> (by Amanda Yagan)
 * <a href="https://www.iza.org/publications/dp/15057">Writing Tips for Economics Research Papers</a> (by Plamen Nikolov)
 * <a href="https://twitter.com/TDeryugina/status/1428353535414992914?s=20">Writing a JMP</a> (by Tatyana Deryugina)
