@@ -14,10 +14,6 @@ description: Research
 * Alumni Networks and Labor-Market Outcomes 
 <button type="button" class="btn btn-xs btn-default">in progress</button>
 
-* School Racial Diversity and Individuals' Racial Attitudes 
-<button type="button" class="btn btn-xs btn-default">applying for data</button>
-
-
 #### Policy publication
 
 * Cai, Christine (2014). "Denmark – Country Note," OECD Education at a Glance 2014: Country Notes <button type="button" class="btn btn-xs btn-default"><a href="http://www.oecd.org/edu/Denmark-EAG2014-Country-Note.pdf">URL</a></button>
