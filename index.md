@@ -20,7 +20,7 @@ I am currently looking for a job in the non-academic sector, ideally to be start
 * <u>Primary:</u> applied microeconomics, labor, public
 * <u>Secondary:</u> urban, health, education
 			
-<u>Main topics of interest:</u> segregation, migrations, social mobility, educational/racial inequalities
+<u>Main topics of interest:</u> labor, segregation, migrations, social mobility, educational/racial inequalities
 
 <u>Advisors:</u> <a href="https://scholar.princeton.edu/lboustan/home">Leah Boustan</a> & <a href="https://scholar.princeton.edu/kuziemko/home">Ilyana Kuziemko</a>
 	
