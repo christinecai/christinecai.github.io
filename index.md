@@ -24,7 +24,7 @@ I am currently looking for a job in the non-academic sector, ideally to be start
 
 <u>Advisors:</u> <a href="https://scholar.princeton.edu/lboustan/home">Leah Boustan</a> & <a href="https://scholar.princeton.edu/kuziemko/home">Ilyana Kuziemko</a>
 	
-<u>CV:</u> <a href="/assets/pdf/Christine_Cai_CV.pdf">click here</a>
+<u>CV/résumé:</u> <a href="/assets/pdf/Christine_Cai_resume.pdf">résumé</a> • <a href="/assets/pdf/Christine_Cai_CV.pdf">CV</a>
 
 <u>Contact:</u> <a href="mailto:christine.cai@princeton.edu">christine.cai@princeton.edu</a>
 
