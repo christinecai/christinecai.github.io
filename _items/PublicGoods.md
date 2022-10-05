@@ -48,14 +48,12 @@ description: Public Goods
 * <a href="https://pyecon.org/down/pyecon.pdf">Python for Econometrics</a> (by Fabian H. C. Raters)
 * <a href="https://colab.research.google.com/github/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists/blob/master/Chapter1/good_practices.ipynb">Introduction to Python for Econometrics, Statistics and Data Analysis</a> (by Kevin Sheppard)
 * <a href="https://colab.research.google.com/github/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists/blob/master/Chapter1/good_practices.ipynb">Good Python Practices</a> (by Khuyen Tran)
-
 ##### LaTeX
 * <a href="https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf">LaTeX Table Hints and Tips</a> (by Adrian P. Robson)
 ##### Two or more languages
+* <a href="https://stata2r.github.io">Translating Stata to R</a>
 * <a href="https://lost-stats.github.io">Statistical models across R/Python/Stata</a> (by the Library of Statistical Techniques)
 * <a href="http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html">Stata-to-Python equivalents</a> (by Daniel M. Sullivan)
-* <a href="https://kylebutts.com/pages/fixest_cheatsheet/">Stata/R cheatsheets</a> (by Kyle Butts)
-* <a href="https://kylebutts.com/pages/fixest_cheatsheet/">Translating Stata to R</a>
 * <a href="https://statatexblog.com">StataTex Blog: Tips for Stata, Latex and other useful resources for applied economists</a> (by Jan Sauermann)
 * <a href="https://medium.com/the-stata-guide/stata-and-github-integration-8c87ddf9784a">Stata and GitHub Integration</a> (by Asjad Naqvi)
 * <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
