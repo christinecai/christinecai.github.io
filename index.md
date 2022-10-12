@@ -17,8 +17,8 @@ I am on the 2022-2023 job market, looking for a job in the non-academic sector (
 
 
 <u>Research fields:</u>
-* <u>Primary:</u> applied microeconomics, labor, public
-* <u>Secondary:</u> urban, health, education
+* <u>Primary:</u> applied microeconomics, labor
+* <u>Secondary:</u> public, urban, health, education
 			
 <u>Main topics of interest:</u> labor, segregation, migrations, social mobility, educational/racial inequalities
 
