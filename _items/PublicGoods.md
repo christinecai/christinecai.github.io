@@ -9,6 +9,7 @@ description: Public Goods
 * <a href="https://www.chloeneast.com/metrics-discussions.html">Metrics discussions: diff-in-diff and event studies</a> (by Chloe East)
 * <a href="https://taylorjwright.github.io/did-reading-group/">DiD Reading Group (Summer 2021)</a> (by Taylor Wright)
 * <a href="https://github.com/asjadnaqvi/DiD">Current literature on diff-in-diff</a> (by Asjad Naqvi)
+* <a href="https://docs.google.com/document/d/14hFLKAwllLOHD45hS_xtGA3xWirNmcV9Bt0M_PNnxhA/edit">Text Data in Economics</a> (by Elliott Ash)
 
 #### PhD-Level Class Materials
 * <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
