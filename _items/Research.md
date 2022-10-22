@@ -6,7 +6,7 @@ description: Research
 
 #### Work in progress
 
-* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default">revised & resubmit</button>
+* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default">revise & resubmit</button>
 
 * Tightening Immigration Policy: Unintended Consequences on Hispanic U.S. Citizens' Health Behavior and Status
 <button type="button" class="btn btn-xs btn-default"><a href="/research/Cai_Christine_third_year_paper.pdf">preliminary draft</a></button>
