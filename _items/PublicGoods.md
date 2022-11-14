@@ -13,7 +13,6 @@ description: Public Goods
 
 #### PhD-Level Class Materials
 * <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
-* <a href="https://d2cml-ai.github.io/d2cml.ai/">Dive into Causal Machine Learning</a> (by Alexander Quispe)
 * <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
 * <a href="https://www.pascalmichaillat.org/t3.html">Graduate Macroeconomics course materials</a> (by Pascal Michaillat)
 * <a href="https://scholar.princeton.edu/zidar/classes">Graduate Public Finance lecture materials</a> (by Owen Zidar)
