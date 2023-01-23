@@ -11,7 +11,7 @@ description: Homepage
 
 <strong>Hello! Welcome to my website!</strong>
 
-I am on the 2022-2023 job market, looking for a job in the tech sector (ideally to be started in the summer of 2023). I will be attending the Industry Job Fair at the NABE Tech Economics Conference (TEC2022) in early November 2022.
+I am on the 2022-2023 job market -- I am looking for a job in the non-academic sector (ideally to be started in the summer of 2023).
 
 <hr />
 
