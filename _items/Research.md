@@ -12,7 +12,7 @@ description: Research
 * Tightening Immigration Policy: Unintended Consequences on Hispanic U.S. Citizens' Health Behavior and Status
 <button type="button" class="btn btn-xs btn-default"><a href="/research/Cai_Christine_third_year_paper.pdf">preliminary draft</a></button>
 
-* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default">revise & resubmit</button>
+* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default">resubmitted</button>
 
 #### Policy publication
 
