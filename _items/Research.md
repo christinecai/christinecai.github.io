@@ -12,9 +12,9 @@ description: Research
 * Tightening Immigration Policy: Unintended Consequences on Hispanic U.S. Citizens' Health Behavior and Status
 <button type="button" class="btn btn-xs btn-default"><a href="/research/Cai_Christine_third_year_paper.pdf">preliminary draft</a></button>
 
-* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default">resubmitted</button>
+#### Publications
 
-#### Policy publication
+* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default">accepted at the <i>Journal of Urban Economics: Insight</i></button>
 
 * Cai, Christine (2014). "Denmark – Country Note," OECD Education at a Glance 2014: Country Notes <button type="button" class="btn btn-xs btn-default"><a href="http://www.oecd.org/edu/Denmark-EAG2014-Country-Note.pdf">URL</a></button>
 
