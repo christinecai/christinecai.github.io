@@ -8,7 +8,7 @@ description: Research
 
 * White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default">accepted at the <i>Journal of Urban Economics: Insight</i></button>
 
-* Alumni Networks and Labor-Market Outcomes 
+* School Alumni Networks and Labor-Market Outcomes: Evidence from Law Firms
 <button type="button" class="btn btn-xs btn-default">in progress</button>
 
 * Tightening Immigration Policy: Unintended Consequences on Hispanic U.S. Citizens' Health Behavior and Status
