@@ -13,6 +13,10 @@ description: Public Goods
 
 #### PhD-Level Class Materials
 * <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
+* <a href="https://stat.mit.edu/news/four-lectures-causality/">Four Lectures on Causality</a> (by Jonas Peters)
+* <a href="https://github.com/uo-ec607">Data science for economists</a> (by Grant R. McDermott)
+* <a href="https://github.com/MCKnaus/causalML-teaching">Causal ML for Policy Evaluation/Learning</a> (by Michael Knaus)
+* <a href="https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-">Machine Learning and Economics: An Introduction</a> (by Susan Athey, Jann Piess, and Stefan Wager)
 * <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
 * <a href="https://www.pascalmichaillat.org/t3.html">Graduate Macroeconomics course materials</a> (by Pascal Michaillat)
 * <a href="https://scholar.princeton.edu/zidar/classes">Graduate Public Finance lecture materials</a> (by Owen Zidar)
@@ -52,6 +56,7 @@ description: Public Goods
 * <a href="https://pyecon.org/down/pyecon.pdf">Python for Econometrics</a> (by Fabian H. C. Raters)
 * <a href="https://colab.research.google.com/github/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists/blob/master/Chapter1/good_practices.ipynb">Introduction to Python for Econometrics, Statistics and Data Analysis</a> (by Kevin Sheppard)
 * <a href="https://colab.research.google.com/github/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists/blob/master/Chapter1/good_practices.ipynb">Good Python Practices</a> (by Khuyen Tran)
+* <a href="https://www.youtube.com/watch?v=kltX6XofxG0&feature=youtu.be">Python for Econometrics</a> (by Michael R. Jonas)
 
 ##### LaTeX
 * <a href="https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf">LaTeX Table Hints and Tips</a> (by Adrian P. Robson)
