@@ -15,7 +15,7 @@ description: Public Goods
 * <a href="https://docs.google.com/document/d/14hFLKAwllLOHD45hS_xtGA3xWirNmcV9Bt0M_PNnxhA/edit">Text Data in Economics</a> (by Elliott Ash)
 * <a href="https://web.stanford.edu/~swager/stats361.pdf">Causal Inference</a> (by Stefan Wager)
 
-#### PhD-Level Field Courses Materials
+#### PhD-Level Field Course Materials
 * <a href="https://github.com/paulgp/GaryChamberlainLectureNotes">Gary Chamberlain's lecture notes</a> (by Paul Goldsmith-Pinkham)
 * <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
 * <a href="https://www.pascalmichaillat.org/t3.html">Graduate Macroeconomics course materials</a> (by Pascal Michaillat)
