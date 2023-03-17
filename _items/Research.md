@@ -6,7 +6,7 @@ description: Research
 
 #### Academic work
 
-* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default">accepted at the <i>Journal of Urban Economics: Insight</i></button>
+* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default"><a href="/research/BCT_accepted_draft.pdf">accepted at the <i>Journal of Urban Economics: Insight</i></a></button>
 
 * School Alumni Networks and Labor-Market Outcomes: Evidence from Law Firms
 <button type="button" class="btn btn-xs btn-default">in progress</button>
