@@ -11,8 +11,6 @@ description: Homepage
 
 <strong>Hello! Welcome to my website!</strong>
 
-I am on the 2022-2023 job market -- I am looking for a job in the non-academic sector (ideally to be started in the summer of 2023).
-
 <hr />
 
 
