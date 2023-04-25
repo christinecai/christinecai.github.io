@@ -6,13 +6,13 @@ description: Research
 
 #### Academic work
 
-* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default"><a href="https://authors.elsevier.com/c/1goaSLPdAxhee">forthcoming at the <i>Journal of Urban Economics: Insights</i></a></button>
+* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default"><a href="https://authors.elsevier.com/c/1goaSLPdAxhee"><i>Journal of Urban Economics: Insights</i></a></button>
 
 * School Alumni Networks and Labor-Market Outcomes: Evidence from Law Firms
-<button type="button" class="btn btn-xs btn-default">in progress</button>
+<button type="button" class="btn btn-xs btn-default">draft coming soon</button>
 
 * Tightening Immigration Policy: Unintended Consequences on Hispanic U.S. Citizens' Health Behavior and Status
-<button type="button" class="btn btn-xs btn-default"><a href="/research/Cai_Christine_third_year_paper.pdf">preliminary draft</a></button>
+<button type="button" class="btn btn-xs btn-default"><a href="/research/Cai_Christine_third_year_paper.pdf">preliminary draft</a></button> <button type="button" class="btn btn-xs btn-default">new draft coming soon</button>
 
 #### Policy work
 
