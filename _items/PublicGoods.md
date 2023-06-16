@@ -7,6 +7,7 @@ description: Public Goods
 #### Applied Econometrics
 * Here is a document I have created that lists papers (titles and abstracts) on recent advances in applied micro methods: <button type="button" class="btn btn-xs btn-default"><a href="/PublicGoods/applied_micro_methods.pdf">light mode PDF</a></button> <button type="button" class="btn btn-xs btn-default"><a href="/PublicGoods/applied_micro_methods_dark_mode.pdf">dark mode PDF</a></button>
 * <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
+* <a href="https://about.peterhull.net/metrix">Grad Econometrics lecture slides</a> (by Peter Hull)
 * <a href="https://stat.mit.edu/news/four-lectures-causality/">Four Lectures on Causality</a> (by Jonas Peters)
 * <a href="https://github.com/uo-ec607">Data science for economists</a> (by Grant R. McDermott)
 * <a href="https://github.com/MCKnaus/causalML-teaching">Causal ML for Policy Evaluation/Learning</a> (by Michael Knaus)
@@ -16,7 +17,6 @@ description: Public Goods
 * <a href="https://web.stanford.edu/~swager/stats361.pdf">Causal Inference</a> (by Stefan Wager)
 
 #### PhD-Level Field Course Materials
-* <a href="https://about.peterhull.net/metrix">Grad Econometrics lecture slides</a> (by Peter Hull)
 * <a href="https://github.com/paulgp/GaryChamberlainLectureNotes">Gary Chamberlain's lecture notes</a> (by Paul Goldsmith-Pinkham)
 * <a href="https://kristykim.github.io">Course notes from classes at UC Berkeley</a> (by Kristy Kim)
 * <a href="https://www.pascalmichaillat.org/t3.html">Graduate Macroeconomics course materials</a> (by Pascal Michaillat)
