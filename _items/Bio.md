@@ -4,7 +4,7 @@ title: Bio
 description: Bio
 ---
 
-I am Christine Cai(-square distributed), a fifth-year <font color="IndianRed">Ph.D. Student in Economics</font> at <font color="IndianRed">Princeton University</font>. I am visiting the Wharton School of the University of Pennsylvania for academic year 2022/2023. 
+I am Christine Cai(-square distributed), a fifth-year <font color="IndianRed">Ph.D. Student in Economics</font> at <font color="IndianRed">Princeton University</font>. I will be joining the Applied Research team of <a href="https://prosperitynow.org">Prosperity Now</a> as a Research Scientist in the summer of 2023.
 	
 My research interests lie in <font color="IndianRed">applied microeconomics</font> and span <font color="IndianRed">labor, public, urban, education, and health economics</font>. I am particularly interested in issues related to segregation, migrations, educational and racial inequalities, and social mobility.
 	
