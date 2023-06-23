@@ -70,7 +70,7 @@ description: Public Goods
 * <a href="https://github.com/J-PAL/Sample_Size_and_Power">Conducting power calculations in Stata/R</a> (by Sabhya Gupta)
 
 #### Before Grad School
-* <a href="https://blog.academicsequitur.com/2019/06/11/should-you-get-a-phd/">Should you get a PhD?</a> (by Tatyana Deryugina)
+* <a href="https://tatyana-57116.medium.com/should-you-get-a-phd-1625c175cc1">Should you get a PhD?</a> (by Tatyana Deryugina)
 * <a href="https://raguide.github.io">Econ RA Guide</a> (by Coly Elhai et al.)
 * <a href="https://www.dropbox.com/s/eej9n1ywknlzcu6/Applied%20Tips%20for%20Applied%20Micro%20RAs.pdf?dl=0">Tips for Applied Micro RAs</a> (by Livia Alfonsi)
 * <a href="https://twitter.com/logwithbasee/status/1406924226393612295?s=20">Guide to Applying for Ph.D. programs in Econ</a> (by Lakshya Narula et al.)
