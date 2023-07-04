@@ -6,7 +6,7 @@ description: Research
 
 #### Academic work
 
-* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default"><a href="https://authors.elsevier.com/c/1goaSLPdAxhee"><i>Journal of Urban Economics: Insights</i></a></button> <button type="button" class="btn btn-xs btn-default"><a href="https://data.mendeley.com/datasets/dnncc42mdg/1">replication package</a></button>
+* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0094119023000104"><i>Journal of Urban Economics: Insights</i></a></button> <button type="button" class="btn btn-xs btn-default"><a href="https://data.mendeley.com/datasets/dnncc42mdg/1">replication package</a></button>
 
 * School Alumni Networks and Labor-Market Outcomes: Evidence from Law Firms
 <button type="button" class="btn btn-xs btn-default">draft coming soon</button>
