@@ -6,7 +6,7 @@ description: Research
 
 #### Academic work
 
-* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0094119023000104"><i>Journal of Urban Economics: Insights</i></a></button> <button type="button" class="btn btn-xs btn-default"><a href="https://data.mendeley.com/datasets/dnncc42mdg/1">replication package</a></button> <button type="button" class="btn btn-xs btn-default"><a href="https://www.ft.com/content/0f348d7d-bfdc-49f4-b5b2-f2398422f429"><i>media coverage: Financial Times</i></a></button>
+* White Flight from Asian Immigrants: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0094119023000104"><i>Journal of Urban Economics: Insights</i></a></button> <button type="button" class="btn btn-xs btn-default"><a href="https://www.nber.org/papers/w31434"><i>NBER WP</i></a></button> <button type="button" class="btn btn-xs btn-default"><a href="https://data.mendeley.com/datasets/dnncc42mdg/1">replication package</a></button> <button type="button" class="btn btn-xs btn-default"><a href="https://www.ft.com/content/0f348d7d-bfdc-49f4-b5b2-f2398422f429">media coverage: Financial Times</a></button>
 
 * Vertical Connections Matter: School Alumni Networks and Labor-Market Outcomes
 <button type="button" class="btn btn-xs btn-default">draft coming soon</button>
