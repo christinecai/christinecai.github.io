@@ -11,7 +11,7 @@ description: Research
 * Vertical Connections Matter: School Alumni Networks and Labor-Market Outcomes
 <button type="button" class="btn btn-xs btn-default"><a href="/research/draft_school_alumni_networks.pdf">draft (Aug 2023)</a></button>
 
-* Tightening Immigration Policy: Unintended Consequences on Hispanic U.S. Citizens' Health Behavior and Status
+* Tightening Immigration Policy: Unintended Consequences on Hispanic U.S. Citizens' Healthcare-Seeking Behavior and Health Status
 <button type="button" class="btn btn-xs btn-default"><a href="/research/draft_health_immigration.pdf">draft (Aug 2023)</a></button> 
 
 #### Policy work
