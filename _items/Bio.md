@@ -4,7 +4,7 @@ title: Bio
 description: Bio
 ---
 
-I am Christine Cai(-square distributed, with 99 degrees of freedom (you wonder why 99? Well, why not?). I am currently a fifth-year <font color="IndianRed">Ph.D. Student in Economics</font> at <font color="IndianRed">Princeton University</font>. I will be joining the Applied Research team of <a href="https://prosperitynow.org">Prosperity Now</a> as a Research Scientist in the summer of 2023.
+I am Christine Cai(-square distributed, with 99 degrees of freedom (you wonder why 99? Well, why not?). I am currently a <font color="IndianRed">Research Scientist</font> at <font color="IndianRed">Prosperity Now</font>. I received my <a href="https://prosperitynow.org">Ph.D. in Economics</a> from <a href="https://prosperitynow.org">Princeton University</a> in 2023.
 	
 My research interests lie in <font color="IndianRed">applied microeconomics</font> and span <font color="IndianRed">labor, public, urban, education, and health economics</font>. I am particularly interested in issues related to segregation, migrations, educational and racial inequalities, and social mobility.
 	
