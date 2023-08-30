@@ -4,7 +4,7 @@ title: Christine Cai
 description: Homepage
 ---
 
-#### Ph.D. Candidate in Economics at Princeton
+#### Research Scientist at Prosperity Now
 
 <hr />
 
@@ -19,7 +19,7 @@ description: Homepage
 			
 <u>Main topics of interest:</u> labor, segregation, migrations, social mobility, educational/racial inequalities
 
-<u>Advisors:</u> <a href="https://scholar.princeton.edu/lboustan/home">Leah Boustan</a> & <a href="https://scholar.princeton.edu/kuziemko/home">Ilyana Kuziemko</a>
+<u>Education:</u> Ph.D., Economics, Princeton University, 2023.
 	
 <u>CV/résumé:</u> <a href="/assets/pdf/Christine_Cai_resume.pdf">résumé</a> • <a href="/assets/pdf/Christine_Cai_CV.pdf">CV</a>
 
