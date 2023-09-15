@@ -10,4 +10,4 @@ My research interests lie in <font color="IndianRed">applied microeconomics</fon
 	
 My <font color="IndianRed">résumé</font> can be viewed/downloaded <a href="/assets/pdf/Christine_Cai_resume.pdf">here</a>, and my <font color="IndianRed">CV</font> <a href="/assets/pdf/Christine_Cai_CV.pdf">here</a>.
 	
-Feel free to reach out to me at <a href="mailto:christine.cai@princeton.edu">christine.cai@princeton.edu</a>.
+Feel free to reach out to me at <a href="mailto:christine.cai@alumni.princeton.edu">christine.cai@alumni.princeton.edu</a>.
