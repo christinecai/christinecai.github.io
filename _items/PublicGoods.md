@@ -90,6 +90,7 @@ description: Public Goods
 * <a href="http://www.ericzwick.com/public_goods/love_the_market.pdf">How I Learned to Stop Worrying and Love the Job Market</a> (by Eric Zwick)
 * <a href="https://statatexblog.com/useful-links/">General resources: writing paper, the editorial process, and job (market) advice</a> (by Jan Sauermann)
 * <a href="https://www.kimfecramer.com/public-goods">Job market debrief</a> (by Kerry Siani & Kim Fe Cramer)
+* <a href="https://github.com/pmichaillat/hugo-website">Quickly building an academic website</a> (by Pascal Michaillat)
 
 #### After Grad School
 * <a href="https://blog.academicsequitur.com/2019/03/18/how-to-be-a-productive-researcher/">How to be a productive researcher</a> (by Tatyana Deryugina)
