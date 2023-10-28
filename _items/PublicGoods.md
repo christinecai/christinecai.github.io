@@ -8,6 +8,7 @@ description: Public Goods
 * Here is a document I have created that lists papers (titles and abstracts) on recent advances in applied micro methods: <button type="button" class="btn btn-xs btn-default"><a href="/PublicGoods/applied_micro_methods.pdf">light mode PDF</a></button> <button type="button" class="btn btn-xs btn-default"><a href="/PublicGoods/applied_micro_methods_dark_mode.pdf">dark mode PDF</a></button>
 * <a href="https://github.com/paulgp/applied-methods-phd">Course videos and slides: Applied Empirical Methods</a> (by Paul Goldsmith-Pinkham)
 * <a href="https://about.peterhull.net/metrix">Grad Econometrics lecture slides</a> (by Peter Hull)
+* <a href="https://scpoecon.github.io/ScPoEconometrics/index.html">Introduction to Econometrics with R</a> (by Florian Oswald, Vincent Viers, Jean-Marc Robin, Pierre Villedieu, and Gustave Kenedi)
 * <a href="https://www.jonathandroth.com/did-resources/">DiD resources</a> (by Jonathan Roth)
 * <a href="https://github.com/asjadnaqvi/DiD">Current literature on diff-in-diff</a> (by Asjad Naqvi)
 * <a href="https://github.com/uo-ec607">Data science for economists</a> (by Grant R. McDermott)
