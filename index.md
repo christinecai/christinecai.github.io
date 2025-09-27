@@ -24,4 +24,4 @@ description: Homepage
 
 <u>Contact:</u> <a href="mailto:christine.cai2706@gmail.com">christine.cai2706@gmail.com</a>
 
-<u>Twitter:</u> <a href="https://twitter.com/Christine_Cai27">@Christine_Cai27</a>
+<u>X (formerly Twitter):</u> <a href="https://twitter.com/Christine_Cai27">@Christine_Cai27</a>
