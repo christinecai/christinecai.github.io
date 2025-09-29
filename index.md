@@ -22,6 +22,6 @@ description: Homepage
 	
 <u>Résumé:</u> <a href="/assets/pdf/Christine_Cai_resume.pdf">click here</a>
 
-<u>Contact:</u> <a href="mailto:christine.cai2706@gmail.com">christine.cai2706@gmail.com</a>
+<u>Contact:</u> <a href="mailto:christine.cai@alumni.princeton.edu">christine.cai@alumni.princeton.edu</a>
 
 <u>X (formerly Twitter):</u> <a href="https://twitter.com/Christine_Cai27">@Christine_Cai27</a>
