@@ -20,7 +20,7 @@ description: Homepage
 			
 <u>Main topics of interest:</u> causal inference, labor, segregation, migrations, social mobility, educational/racial inequalities
 	
-<u>Résumé:</u> <a href="/assets/pdf/Christine_Cai_resume.pdf">click here</a>
+<u>Résumé:</u> <a href="/assets/pdf/Christine_Cai_resume.pdf">click here to view</a>
 
 <u>Contact:</u> <a href="mailto:christine.cai@alumni.princeton.edu">christine.cai@alumni.princeton.edu</a>
 
