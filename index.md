@@ -16,7 +16,7 @@ description: Homepage
 
 <u>Research fields:</u>
 * <u>Primary:</u> applied microeconomics, labor
-* <u>Secondary:</u> public, urban, health, education
+* <u>Secondary:</u> public, health, education
 			
 <u>Main topics of interest:</u> causal inference, labor, segregation, migrations, social mobility, educational/racial inequalities
 	
