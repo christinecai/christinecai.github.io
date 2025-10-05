@@ -14,7 +14,7 @@ description: Homepage
 
 <u>Education:</u> Ph.D., Economics, Princeton University, 2023
 	
-<u>Topics of interest:</u> causal inference, labor, education, segregation, migration, social mobility.
+<u>Topics of interest:</u> causal inference, applied microeconomics (labor, education, segregation, migration, social mobility).
 	
 <u>Résumé:</u> <a href="/assets/pdf/Christine_Cai_resume.pdf">click here to view</a>
 
