@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: website
 author: "Christine Cai"
-email: "christine.cai@princeton.edu"
+email: "christine.cai@alumni.princeton.edu"
 description: personal website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christinecai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
