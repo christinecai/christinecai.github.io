@@ -4,7 +4,7 @@ title: Christine Cai
 description: Homepage
 ---
 
-#### Looking for my next position as an Economist/Research Scientist/Data Scientist or similar roles!
+#### Looking for my next position as an Economist/Research Scientist/Data Scientist!
 
 <hr />
 
