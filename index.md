@@ -4,7 +4,7 @@ title: Christine Cai
 description: Homepage
 ---
 
-#### Research Scientist at Prosperity Now
+#### Looking for my next position as an Economist/Research Scientist/Data Scientist or similar roles!
 
 <hr />
 
