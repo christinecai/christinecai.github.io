@@ -16,7 +16,7 @@ description: Research
 
 #### Policy work
 
-* Cai, Christine (2014). "Denmark – Country Note," OECD Education at a Glance 2014: Country Notes <button type="button" class="btn btn-xs btn-default"><a href="http://www.oecd.org/edu/Denmark-EAG2014-Country-Note.pdf">URL</a></button>
+* Cai, Christine (2014). "Denmark – Country Note," OECD Education at a Glance 2014: Country Notes
 
 #### Master's thesis (dormant)
 
