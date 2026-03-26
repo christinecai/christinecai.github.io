@@ -4,7 +4,7 @@ title: Christine Cai
 description: Homepage
 ---
 
-#### Looking for my next position as an Economist/Research Scientist/Data Scientist!
+#### Incoming Data Scientist at Vanguard (April 2026)
 
 <hr />
 
@@ -14,7 +14,7 @@ description: Homepage
 
 <u>Education:</u> Ph.D., Economics, Princeton University, 2023
 	
-<u>Topics of interest:</u> causal inference, applied microeconomics (labor, education, segregation, migration, social mobility).
+<u>Topics of interest:</u> causal inference, applied microeconomics, predictive modeling, machine learning.
 	
 <u>Résumé:</u> <a href="/assets/pdf/Christine_Cai_resume.pdf">click here to view</a>
 
