@@ -4,7 +4,7 @@ title: Christine Cai
 description: Homepage
 ---
 
-#### Data Scientist at Vanguard (April 2026)
+#### Data Scientist at Vanguard
 
 <hr />
 
